@@ -1,5 +1,3 @@
-﻿using static Match.Game;
-
 namespace Match
 {
     public class Program
